@@ -1,7 +1,7 @@
 # EMPD-EXP-4
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE:5-06-26
+### DATE:1-06-26
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,8 +32,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ### Output:
-<img width="331" height="246" alt="Screenshot 2026-06-05 182258" src="https://github.com/user-attachments/assets/531dae1b-020c-45c1-9d9c-6204600aec57" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/531dae1b-020c-45c1-9d9c-6204600aec57"
+       width="700">
+</p>
 
 ### Name:POOJA PRIYA B
 ### Register Number:212224230196
